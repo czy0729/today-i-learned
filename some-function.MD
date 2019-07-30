@@ -4,7 +4,7 @@
 
 ### 深拷贝
 
-如果你所需拷贝的对象含有内置类型并且不包含函数，可以使用 `MessageChannel` (form)[https://yuchengkai.cn/docs/frontend/#%E6%B7%B1%E6%8B%B7%E8%B4%9D]
+如果你所需拷贝的对象含有内置类型并且不包含函数，可以使用 `MessageChannel` [form](https://yuchengkai.cn/docs/frontend/#%E6%B7%B1%E6%8B%B7%E8%B4%9D)
 
 ```js
 function structuralClone(obj) {
