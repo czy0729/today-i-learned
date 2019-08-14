@@ -1,6 +1,6 @@
 # HTML 相关问题
 
-#### 1. 页面导入样式时，使用 link 和@import 有什么区别？
+#### 1. 页面导入样式时，使用 link 和 @import 有什么区别？
 
 <details><summary><b>说明</b></summary>
 <p>
